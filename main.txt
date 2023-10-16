@@ -1,0 +1,19 @@
+Câu 1: 
+- Hàm ko có giá trị trả về:
++ Hàm print()
++ Hàm sort()
+- Hàm có giá trị trả về:
++ Hàm len()
++ Hàm is_int()
+
+Câu 2:
+- Khi lập trình viên cảm thấy code của mình quá dài, khó đọc, hoặc ko thể tái sử dụng được
+
+Câu 3:
+B
+
+Câu 4:
+B
+
+Câu 5:
+B
